@@ -1,0 +1,12 @@
+export const FETCH_PLATS = "FETCH_PLATS";
+export const DETAIL_PLAT = "DETAIL_PLAT";
+export const ORDER_PRODUCTS_BY_PRICE = "ORDER_PRODUCTS_BY_PRICE";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const SIGNIN_USER = "SIGNIN_USER";
+export const TYPE_COMMANDE = "TYPE_COMMANDE";
+export const CLEAR_CART = "CLEAR_CART";
+export const USER_UPDATE_SUCCESS = "USER_UPDATE_SUCCESS";
+export const USER_UPDATE_FAIL = "USER_UPDATE_FAIL";
+export const CREATE_ORDER  = "CREATE_ORDER";
+export const FETCH_ORDERS  = "FETCH_ORDERS";
